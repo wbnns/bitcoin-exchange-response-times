@@ -1,4 +1,4 @@
-# Welcome
+# Average Response Times for Bitcoin Exchanges
 
 ![bitcoin_exchanges](bitcoin_exchanges.png)
 
@@ -19,7 +19,7 @@ This information is also available in a [Google Sheet](https://docs.google.com/s
 Please contact [will@bitcoin.org](mailto:will@bitcoin.org) with any questions or
 feedback.
 
-# Bitcoin Exchange Response Times
+## Average Response Times
 
 
 | Name                | URL                                       | Service area   | Contact                                                                  | Last contacted | Response time in days | Previous response time in days (1) | Previous response time in days (2) | Average response time in days | 
