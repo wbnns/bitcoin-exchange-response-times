@@ -16,8 +16,8 @@ This information is also available in a [Google Sheet](https://docs.google.com/s
 
 ## Contact
 
-Please contact [will@bitcoin.org](mailto:will@bitcoin.org) with any questions or
-feedback.
+Please contact [will@bitcoin.org](mailto:will@bitcoin.org) if you have any
+questions or feedback.
 
 ## Average Response Times
 
