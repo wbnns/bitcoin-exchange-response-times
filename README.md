@@ -1,11 +1,13 @@
 # Welcome
 
+![bitcoin_exchanges](bitcoin_exchanges.png)
+
 The repository weights the average customer support response time for 60+
 bitcoin exchanges around the world. This research is made available to the
 community though existing work done at [bitcoin.org](https://bitcoin.org/)
 analyzing the quality of bitcoin exchanges.
 
-The information to follow is also available in [Google Sheets](https://docs.google.com/spreadsheets/d/1k90K6aCj9MMQZjDoMbQsG5_B7MZ4YHkCg_gmtP1G_ag/edit?usp=sharing).
+This information is also available in a [Google Sheet](https://docs.google.com/spreadsheets/d/1k90K6aCj9MMQZjDoMbQsG5_B7MZ4YHkCg_gmtP1G_ag/edit?usp=sharing).
 
 ## Notes
 
@@ -17,7 +19,7 @@ The information to follow is also available in [Google Sheets](https://docs.goog
 Please contact [will@bitcoin.org](mailto:will@bitcoin.org) with any questions,
 comments, concerns.
 
-## Average response times
+# Bitcoin Exchange Response Times
 
 
 | Name                | URL                                       | Service area   | Contact                                                                  | Last contacted | Response time in days | Previous response time in days (1) | Previous response time in days (2) | Average response time in days | 
