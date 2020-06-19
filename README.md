@@ -12,12 +12,12 @@ This information is also available in a [Google Sheet](https://docs.google.com/s
 ## Notes
 
 + A response time of 0 means that we received a reply the same day.
-+ Proof of correspondence is available in the correspondence folder.
++ Proof of correspondence with each exchange is available in the [correspondence folder](https://github.com/wbnns/average-response-time-bitcoin-exchanges/tree/master/correspondence).
 
-## Questions
+## Contact
 
-Please contact [will@bitcoin.org](mailto:will@bitcoin.org) with any questions,
-comments, concerns.
+Please contact [will@bitcoin.org](mailto:will@bitcoin.org) with any questions or
+feedback.
 
 # Bitcoin Exchange Response Times
 
