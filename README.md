@@ -86,5 +86,5 @@ feedback.
 | The Rock Trading    | https://www.therocktrading.com/           | Europe         | 6/6/2020       | 0                    | 
 | Volabit             | https://www.volabit.com/en                | Mexico         | 6/8/2020       | 4                    | 
 | Walltime            | https://walltime.info/index_pt.html#!home | Brazil         | 6/6/2020       | 2                    | 
-| Mean                | N/A                                       |                | N/A            | 1.63                 | 
+| **Mean**            |                                           |                |                | **1.63**             | 
 
