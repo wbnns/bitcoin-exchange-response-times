@@ -47,7 +47,6 @@ questions or feedback.
 | BL3P                | https://bl3p.eu/                          | Europe         | 6/4/2020       | 1                    | 
 | Brasil Bitcoin      | https://brasilbitcoin.com.br/             | Brazil         | 6/4/2020       | 1                    | 
 | Btcbox              | https://www.btcbox.co.jp/                 | Japan          | 6/4/2020       | 1                    | 
-| BTC Markets         | https://www.btcmarkets.net/               | Australia      | Pending        | N/A                  | 
 | Buda                | https://buda.com/                         | South America  | 6/8/2020       | 0                    | 
 | Canadian Bitcoins   | https://www.canadianbitcoins.com/         | Canada         | 6/5/2020       | 0                    | 
 | Coinbase            | https://www.coinbase.com/                 | Worldwide      | 6/8/2020       | 0                    | 
