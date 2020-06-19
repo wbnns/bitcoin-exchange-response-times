@@ -21,71 +21,135 @@ feedback.
 
 ## Average Response Times
 
-
-| Name                | URL                                       | Service area   | Contact                                                                  | Last contacted | Response time in days | Previous response time in days (1) | Previous response time in days (2) | Average response time in days | 
-|---------------------|-------------------------------------------|----------------|--------------------------------------------------------------------------|----------------|-----------------------|------------------------------------|------------------------------------|-------------------------------| 
-| AnyCoin Direct      | https://anycoindirect.eu/                 | Europe         | support@anycoindirect.eu                                                 | 6/4/2020       | 1                     |                                    |                                    | 1.00                          | 
-| ArgenBTC            | https://argenbtc.com/                     | Argentina      | contacto@argenbtc.com                                                    | 6/4/2020       | 0                     |                                    |                                    | 0.00                          | 
-| Binance Jersey      | https://www.binance.je/en                 | Europe         | https://support.binance.je/hc/en-us/requests/new                         | 6/4/2020       | 1                     |                                    |                                    | 1.00                          | 
-| Binance Singapore   | https://www.binance.sg/en                 | Singapore      | https://binancesingapore.zendesk.com/hc/en-us/requests/new               | 6/4/2020       | 1                     |                                    |                                    | 1.00                          | 
-| Binance Uganda      | https://www.binance.co.ug/en              | Uganda         | https://support.binance.co.ug/hc/en-us/requests/new                      | 6/4/2020       | 1                     |                                    |                                    | 1.00                          | 
-| bitbank             | https://www.bitbank.com/                  | Japan          | support@bitbank.com                                                      | 6/4/2020       | 1                     |                                    |                                    | 1.00                          | 
-| BitBay              | https://bitbay.net/en                     | Poland         | https://support.bitbay.net/en/support/home                               | 6/4/2020       | 1                     |                                    |                                    | 1.00                          | 
-| Bitbuy              | https://bitbuy.ca/                        | Canada         | https://support.bitbuy.ca/hc/en-us/requests/new                          | 6/4/2020       | 1                     |                                    |                                    | 1.00                          | 
-| Bitcoin.de          | https://www.bitcoin.de/en                 | Europe         | https://www.bitcoin.de/en/kontakt                                        | 6/8/2020       | 0                     |                                    |                                    | 0.00                          | 
-| Bitex               | https://bitex.la/                         | Argentina      | Icon in bottom right-hand corner of page                                 | 6/8/2020       | 11                    |                                    |                                    | 11.00                         | 
-| bitFlyer            | https://bitflyer.com/                     | Worldwide      | https://bitflyer.com/en-eu/contact                                       | 6/8/2020       | 0                     |                                    |                                    | 0.00                          | 
-| Bithumb             | https://www.bithumb.com/                  | South Korea    | info@bithumbcorp.com                                                     | 6/8/2020       | 5                     |                                    |                                    | 5.00                          | 
-| BitOasis            | https://bitoasis.net/en/home              | Middle East    | https://bitoasis.net/en/support                                          | 6/4/2020       | 1                     |                                    |                                    | 1.00                          | 
-| BitPanda            | https://www.bitpanda.com/en               | Europe         | https://support.bitpanda.com/hc/en-us/requests/new                       | 6/4/2020       | 1                     |                                    |                                    | 1.00                          | 
-| Bitquick            | https://bitquick.co/                      | P2P            | https://bitquick.co/contact                                              | 6/4/2020       | 1                     |                                    |                                    | 1.00                          | 
-| Bits of Gold        | https://www.bitsofgold.net/               | Israel         | https://bitsofgoldhelp.freshdesk.com/en/support/tickets/new              | 6/4/2020       | 3                     |                                    |                                    | 3.00                          | 
-| Bitso               | https://bitso.com/                        | Mexico         | https://help.bitso.com/en/support/tickets/new                            | 6/4/2020       | 8                     |                                    |                                    | 8.00                          | 
-| Bitstamp            | https://www.bitstamp.net/                 | Worldwide      | support@bitstamp.net                                                     | 6/4/2020       | 1                     |                                    |                                    | 1.00                          | 
-| Bittrex             | https://global.bittrex.com/               | United States  | https://bittrexglobal.zendesk.com/hc/en-us/requests/new                  | 6/4/2020       | 1                     |                                    |                                    | 1.00                          | 
-| Bittylicious        | https://bittylicious.com/                 | United Kingdom | support@bittylicious.com                                                 | 6/4/2020       | 1                     |                                    |                                    | 1.00                          | 
-| Bitvavo             | https://bitvavo.com/en                    | Europe         | https://support.bitvavo.com/l/en                                         | 6/4/2020       | 1                     |                                    |                                    | 1.00                          | 
-| BL3P                | https://bl3p.eu/                          | Europe         | contact@bl3p.eu                                                          | 6/4/2020       | 1                     |                                    |                                    | 1.00                          | 
-| Brasil Bitcoin      | https://brasilbitcoin.com.br/             | Brazil         | suporte@brasilbitcoin.com.br                                             | 6/4/2020       | 1                     |                                    |                                    | 1.00                          | 
-| Btcbox              | https://www.btcbox.co.jp/                 | Japan          | https://support.btcbox.co.jp/hc/en-us/requests/new                       | 6/4/2020       | 1                     |                                    |                                    | 1.00                          | 
-| BTC Markets         | https://www.btcmarkets.net/               | Australia      | https://support.btcmarkets.net/hc/en-us/requests/new                     | Pending        | N/A                   |                                    |                                    | N/A                           | 
-| Buda                | https://buda.com/                         | South America  | Icon in bottom right-hand corner of page                                 | 6/8/2020       | 0                     |                                    |                                    | 0.00                          | 
-| Canadian Bitcoins   | https://www.canadianbitcoins.com/         | Canada         | info@canadianbitcoins.com                                                | 6/5/2020       | 0                     |                                    |                                    | 0.00                          | 
-| Coinbase            | https://www.coinbase.com/                 | Worldwide      | https://help.coinbase.com/en/contact-us                                  | 6/8/2020       | 0                     |                                    |                                    | 0.00                           | 
-| Coinberry           | https://www.coinberry.com/                | Canada         | https://help.coinberry.com/s/                                            | 6/5/2020       | 0                     |                                    |                                    | 0.00                           | 
-| CoinCorner          | https://www.coincorner.com/               | United Kingdom | https://www.coincorner.com/ContactUs                                     | 6/5/2020       | 0                     |                                    |                                    | 0.00                          | 
-| Coinfloor           | https://www.coinfloor.co.uk/              | United Kingdom | support@coinfloor.co.uk                                                  | 6/5/2020       | 4                     |                                    |                                    | 4.00                          | 
-| CoinJar             | https://www.coinjar.com/au/               | Australia      | https://support.coinjar.com/hc/en-us/requests/new                        | 6/5/2020       | 3                     |                                    |                                    | 3.00                          | 
-| Coinmama            | https://www.coinmama.com/                 | Worldwide      | https://support.coinmama.com/hc/en-us/requests/new?ticket_form_id=190869 | 6/5/2020       | 0                     |                                    |                                    | 0.00                          | 
-| Coinone             | https://coinone.co.kr/                    | South Korea    | support@coinone.co.kr                                                    | 6/8/2020       | 2                     |                                    |                                    | 2.00                          | 
-| Coinsmart           | https://www.coinsmart.com/                | Canada         | https://www.coinsmart.com/contact-us/                                    | 6/5/2020       | 0                     |                                    |                                    | 0.00                          | 
-| CoinSpot            | https://www.coinspot.com.au/              | Australia      | https://coinspot.zendesk.com/hc/en-us/requests/new                       | 6/5/2020       | 1                     |                                    |                                    | 1.00                          | 
-| CoinTree            | https://www.cointree.com/                 | Australia      | https://support.cointree.com/hc/en-us/requests                           | 6/8/2020       | 2                     |                                    |                                    | 2.00                          | 
-| Cryptobuyer         | https://cryptobuyer.io/en/                | Venezuela      | https://cryptobuyer.io/en/                                               | 6/5/2020       | 2                     |                                    |                                    | 2.00                          | 
-| Digital Surge       | https://digitalsurge.com.au/              | Australia      | contact@digitalsurge.com.au                                              | 6/6/2020       | 1                     |                                    |                                    | 1.00                          | 
-| Foxbit              | https://foxbit.com.br/                    | Brazil         | https://faq.foxbit.com.br/hc/pt-br/requests/new                          | 6/6/2020       | 2                     |                                    |                                    | 2.00                          | 
-| Gemini              | https://gemini.com/                       | United States  | support@gemini.com                                                       | 6/6/2020       | 0                     |                                    |                                    | 0.00                          | 
-| HardBlock           | https://www.hardblock.com.au/             | Australia      | support@hardblock.com.au                                                 | 6/6/2020       | 1                     |                                    |                                    | 1.00                          | 
-| Independent Reserve | https://www.independentreserve.com        | Australia      | support@independentreserve.com                                           | 6/6/2020       | 0                     |                                    |                                    | 0.00                          | 
-| Indodax             | https://indodax.com/en/                   | Indonesia      | support@indodax.com                                                      | 6/6/2020       | 0                     |                                    |                                    | 0.00                          | 
-| itBit               | https://www.itbit.com/                    | United States  | https://help.paxos.com/hc/en-us/requests/new                             | 6/6/2020       | 2                     |                                    |                                    | 2.00                          | 
-| Karsha              | https://karsha.biz/                       | Middle East    | support@karsha.biz                                                       | 6/6/2020       | 0                     |                                    |                                    | 0.00                          | 
-| Kiwi-coin           | https://kiwi-coin.com/                    | New Zealand    | info@kiwi-coin.com                                                       | 6/6/2020       | 1                     |                                    |                                    | 1.00                          | 
-| Koinim              | https://koinim.com/                       | Turkey         | destek@koinim.com                                                        | 6/6/2020       | 0                     |                                    |                                    | 0.00                          | 
-| Korbit              | https://www.korbit.co.kr/                 | South Korea    | info@korbit.co.kr                                                        | 6/6/2020       | 2                     |                                    |                                    | 2.00                          | 
-| Kraken              | https://www.kraken.com/                   | Worldwide      | https://support.kraken.com/hc/en-us/requests/new                         | 6/8/2020       | 0                     |                                    |                                    | 0.00                          | 
-| Kriptomat           | https://kriptomat.io/                     | Europe         | support@kriptomat.io                                                     | 6/6/2020       | 0                     |                                    |                                    | 0.00                          | 
-| Kuna                | https://kuna.io/                          | Ukraine        | support@kuna.io                                                          | 6/6/2020       | 0                     |                                    |                                    | 0.00                          | 
-| Local Bitcoins      | https://localbitcoins.com/                | P2P            | https://localbitcoins.com/support/request/#other                         | 6/6/2020       | 3                     |                                    |                                    | 3.00                          | 
-| Luno                | https://luno.com/                         | "Africa, Asia" | https://www.luno.com/help/en/tickets/new                                 | 6/6/2020       | 5                     |                                    |                                    | 5.00                          | 
-| Mercado Bitcoin     | https://www.mercadobitcoin.com.br/        | Argentina      | https://suporte.mercadobitcoin.com.br/hc/pt-br/requests/new              | 6/8/2020       | 0                     |                                    |                                    | 0.00                          | 
-| Paxful              | https://paxful.com/                       | P2P            | Icon in bottom right-hand corner of page                                 | 6/6/2020       | 1                     |                                    |                                    | 1.00                          | 
-| Paymium             | https://www.paymium.com/?lang=en          | Europe         | support@paymium.com                                                      | 6/6/2020       | 2                     |                                    |                                    | 2.00                          | 
-| Ripio               | https://www.ripio.com/ar                  | Argentina      | Icon in bottom right-hand corner of page                                 | 6/8/2020       | 11                    |                                    |                                    | 11.00                         | 
-| SatoshiTango        | https://www.satoshitango.com/en/          | Argentina      | support@satoshitango.com                                                 | 6/6/2020       | 6                     |                                    |                                    | 6.00                          | 
-| Shakepay            | https://shakepay.co/                      | Canada         | Icon in bottom right-hand corner of page                                 | 6/8/2020       | 0                     |                                    |                                    | 0.00                          | 
-| The Rock Trading    | https://www.therocktrading.com/           | Europe         | support@therocktrading.com                                               | 6/6/2020       | 0                     |                                    |                                    | 0.00                          | 
-| Volabit             | https://www.volabit.com/en                | Mexico         | Icon in bottom right-hand corner of page                                 | 6/8/2020       | 4                     |                                    |                                    | 4.00                          | 
-| Walltime            | https://walltime.info/index_pt.html#!home | Brazil         | sos@walltime.info                                                        | 6/6/2020       | 2                     |                                    |                                    | 2.00                          | 
-| **Cumulatives**         |                                           |                |                                                                          |                | **1.63**                  |                                    |                                    | **1.63**                          | 
+| Name                | URL                                       | Service area
+| Date contacted | Response time (days) | 
+|---------------------|-------------------------------------------|----------------|----------------|----------------------| 
+| AnyCoin Direct      | https://anycoindirect.eu/                 | Europe
+| 6/4/2020       | 1                    | 
+| ArgenBTC            | https://argenbtc.com/                     | Argentina
+| 6/4/2020       | 0                    | 
+| Binance Jersey      | https://www.binance.je/en                 | Europe
+| 6/4/2020       | 1                    | 
+| Binance Singapore   | https://www.binance.sg/en                 | Singapore
+| 6/4/2020       | 1                    | 
+| Binance Uganda      | https://www.binance.co.ug/en              | Uganda
+| 6/4/2020       | 1                    | 
+| bitbank             | https://www.bitbank.com/                  | Japan
+| 6/4/2020       | 1                    | 
+| BitBay              | https://bitbay.net/en                     | Poland
+| 6/4/2020       | 1                    | 
+| Bitbuy              | https://bitbuy.ca/                        | Canada
+| 6/4/2020       | 1                    | 
+| Bitcoin.de          | https://www.bitcoin.de/en                 | Europe
+| 6/8/2020       | 0                    | 
+| Bitex               | https://bitex.la/                         | Argentina
+| 6/8/2020       | 11                   | 
+| bitFlyer            | https://bitflyer.com/                     | Worldwide
+| 6/8/2020       | 0                    | 
+| Bithumb             | https://www.bithumb.com/                  | South Korea
+| 6/8/2020       | 5                    | 
+| BitOasis            | https://bitoasis.net/en/home              | Middle East
+| 6/4/2020       | 1                    | 
+| BitPanda            | https://www.bitpanda.com/en               | Europe
+| 6/4/2020       | 1                    | 
+| Bitquick            | https://bitquick.co/                      | P2P
+| 6/4/2020       | 1                    | 
+| Bits of Gold        | https://www.bitsofgold.net/               | Israel
+| 6/4/2020       | 3                    | 
+| Bitso               | https://bitso.com/                        | Mexico
+| 6/4/2020       | 8                    | 
+| Bitstamp            | https://www.bitstamp.net/                 | Worldwide
+| 6/4/2020       | 1                    | 
+| Bittrex             | https://global.bittrex.com/               | United
+States  | 6/4/2020       | 1                    | 
+| Bittylicious        | https://bittylicious.com/                 | United
+Kingdom | 6/4/2020       | 1                    | 
+| Bitvavo             | https://bitvavo.com/en                    | Europe
+| 6/4/2020       | 1                    | 
+| BL3P                | https://bl3p.eu/                          | Europe
+| 6/4/2020       | 1                    | 
+| Brasil Bitcoin      | https://brasilbitcoin.com.br/             | Brazil
+| 6/4/2020       | 1                    | 
+| Btcbox              | https://www.btcbox.co.jp/                 | Japan
+| 6/4/2020       | 1                    | 
+| BTC Markets         | https://www.btcmarkets.net/               | Australia
+| Pending        | N/A                  | 
+| Buda                | https://buda.com/                         | South
+America  | 6/8/2020       | 0                    | 
+| Canadian Bitcoins   | https://www.canadianbitcoins.com/         | Canada
+| 6/5/2020       | 0                    | 
+| Coinbase            | https://www.coinbase.com/                 | Worldwide
+| 6/8/2020       | 0                    | 
+| Coinberry           | https://www.coinberry.com/                | Canada
+| 6/5/2020       | 0                    | 
+| CoinCorner          | https://www.coincorner.com/               | United
+Kingdom | 6/5/2020       | 0                    | 
+| Coinfloor           | https://www.coinfloor.co.uk/              | United
+Kingdom | 6/5/2020       | 4                    | 
+| CoinJar             | https://www.coinjar.com/au/               | Australia
+| 6/5/2020       | 3                    | 
+| Coinmama            | https://www.coinmama.com/                 | Worldwide
+| 6/5/2020       | 0                    | 
+| Coinone             | https://coinone.co.kr/                    | South Korea
+| 6/8/2020       | 2                    | 
+| Coinsmart           | https://www.coinsmart.com/                | Canada
+| 6/5/2020       | 0                    | 
+| CoinSpot            | https://www.coinspot.com.au/              | Australia
+| 6/5/2020       | 1                    | 
+| CoinTree            | https://www.cointree.com/                 | Australia
+| 6/8/2020       | 2                    | 
+| Cryptobuyer         | https://cryptobuyer.io/en/                | Venezuela
+| 6/5/2020       | 2                    | 
+| Digital Surge       | https://digitalsurge.com.au/              | Australia
+| 6/6/2020       | 1                    | 
+| Foxbit              | https://foxbit.com.br/                    | Brazil
+| 6/6/2020       | 2                    | 
+| Gemini              | https://gemini.com/                       | United
+States  | 6/6/2020       | 0                    | 
+| HardBlock           | https://www.hardblock.com.au/             | Australia
+| 6/6/2020       | 1                    | 
+| Independent Reserve | https://www.independentreserve.com        | Australia
+| 6/6/2020       | 0                    | 
+| Indodax             | https://indodax.com/en/                   | Indonesia
+| 6/6/2020       | 0                    | 
+| itBit               | https://www.itbit.com/                    | United
+States  | 6/6/2020       | 2                    | 
+| Karsha              | https://karsha.biz/                       | Middle East
+| 6/6/2020       | 0                    | 
+| Kiwi-coin           | https://kiwi-coin.com/                    | New Zealand
+| 6/6/2020       | 1                    | 
+| Koinim              | https://koinim.com/                       | Turkey
+| 6/6/2020       | 0                    | 
+| Korbit              | https://www.korbit.co.kr/                 | South Korea
+| 6/6/2020       | 2                    | 
+| Kraken              | https://www.kraken.com/                   | Worldwide
+| 6/8/2020       | 0                    | 
+| Kriptomat           | https://kriptomat.io/                     | Europe
+| 6/6/2020       | 0                    | 
+| Kuna                | https://kuna.io/                          | Ukraine
+| 6/6/2020       | 0                    | 
+| Local Bitcoins      | https://localbitcoins.com/                | P2P
+| 6/6/2020       | 3                    | 
+| Luno                | https://luno.com/                         | "Africa,
+Asia" | 6/6/2020       | 5                    | 
+| Mercado Bitcoin     | https://www.mercadobitcoin.com.br/        | Argentina
+| 6/8/2020       | 0                    | 
+| Paxful              | https://paxful.com/                       | P2P
+| 6/6/2020       | 1                    | 
+| Paymium             | https://www.paymium.com/?lang=en          | Europe
+| 6/6/2020       | 2                    | 
+| Ripio               | https://www.ripio.com/ar                  | Argentina
+| 6/8/2020       | 11                   | 
+| SatoshiTango        | https://www.satoshitango.com/en/          | Argentina
+| 6/6/2020       | 6                    | 
+| Shakepay            | https://shakepay.co/                      | Canada
+| 6/8/2020       | 0                    | 
+| The Rock Trading    | https://www.therocktrading.com/           | Europe
+| 6/6/2020       | 0                    | 
+| Volabit             | https://www.volabit.com/en                | Mexico
+| 6/8/2020       | 4                    | 
+| Walltime            | https://walltime.info/index_pt.html#!home | Brazil
+| 6/6/2020       | 2                    | 
+| **Mean**                |                                           |
+|                | **1.63**                 | 
 
