@@ -1,11 +1,7 @@
 # Average Response Times for Bitcoin Exchanges
 
-![bitcoin_exchanges](bitcoin_exchanges.png)
-
 The repository contains the average customer support response times for 60+
-bitcoin exchanges around the world, measured during the month of June 2020. This
-analysis is made available to the community through existing work done at
-[bitcoin.org](https://bitcoin.org/).
+bitcoin exchanges around the world, measured during the month of June 2020.
 
 This information is also available in a [Google Sheet](https://docs.google.com/spreadsheets/d/1k90K6aCj9MMQZjDoMbQsG5_B7MZ4YHkCg_gmtP1G_ag/edit?usp=sharing).
 
@@ -13,11 +9,6 @@ This information is also available in a [Google Sheet](https://docs.google.com/s
 
 + A response time of 0 means that we received a reply the same day.
 + Proof of correspondence with each exchange is available in the [correspondence folder](https://github.com/wbnns/average-response-time-bitcoin-exchanges/tree/master/correspondence).
-
-## Contact
-
-Please contact [will@bitcoin.org](mailto:will@bitcoin.org) if you have any
-questions or feedback.
 
 ## Average Response Times
 
